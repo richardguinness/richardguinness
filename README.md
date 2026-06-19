@@ -1,6 +1,5 @@
-Technologist with 15+ years’ experience spanning small-business leadership, systems integration, and data engineering. I build practical tools for messy data, retrieval, analytics, and decision support.
-
-Interested in software engineering, data engineering, research engineering, and advanced analytics roles — especially where privacy, auditability, stakeholder judgement, and real-world data quality matter.
+>[!INFO]
+> In this repo, you'll find examples of projects I've worked on mostly for personal interest, with a few exceptions.
 
 ## Selected work
 
@@ -15,10 +14,3 @@ Interested in software engineering, data engineering, research engineering, and 
 ## Core stack
 
 Python · SQL · Postgres/SQLite · FastAPI · Docker · Terraform · Weaviate · sentence-transformers · Rust · WebAssembly · JavaScript · GitHub Actions
-
-## What I like working on
-
-- Data pipelines where source quality, matching, and auditability matter
-- Retrieval/research tools over messy information spaces
-- Privately hosted AI systems and inspectable model workflows
-- Small, well-scoped software that people can run, understand, and improve
