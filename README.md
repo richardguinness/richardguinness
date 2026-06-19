@@ -1,5 +1,3 @@
-# Richard Guinness
-
 Technologist with 15+ years’ experience spanning small-business leadership, systems integration, and data engineering. I build practical tools for messy data, retrieval, analytics, and decision support.
 
 Interested in software engineering, data engineering, research engineering, and advanced analytics roles — especially where privacy, auditability, stakeholder judgement, and real-world data quality matter.
