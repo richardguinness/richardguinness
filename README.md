@@ -1,4 +1,4 @@
->[!INFO]
+> [!INFO]
 > In this repo, you'll find examples of projects I've worked on mostly for personal interest, with a few exceptions.
 
 ## Selected work
