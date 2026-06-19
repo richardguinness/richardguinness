@@ -1,7 +1,6 @@
-> [!INFO]
+> [!NOTE]
 > In this repo, you'll find examples of projects I've worked on mostly for personal interest, with a few exceptions.
 
-## Selected work
 
 | Project | Quick overview | Main points of interest | Links |
 | --- | --- | --- | --- |
